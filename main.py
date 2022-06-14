@@ -9,7 +9,7 @@ import time
 import schedule
 
 # file path
-path = "/Users/puneetrajput/Documents/Finesse/NSE_preopen/data/"
+path = "/data/"
 # at_hour = 9
 # at_minute = 15
 # at_second = 1
